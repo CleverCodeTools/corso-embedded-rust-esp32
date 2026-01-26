@@ -77,7 +77,9 @@ Caratteristiche principali delle schede di sviluppo:
 
 Nonostante l'esistenza di tante varianti, la scheda più utilizzata per imparare e prototipare velocemente rimane l'**ESP32 Devkit v1**.
 
-![](imgs/esp32-devkitv1.jpg)
+<p align="center">
+    <img src="imgs/esp32-devkitv1.jpg" height="300" />
+</p>
 
 L'ESP32 è un processore dual-core a 32 bit dotato di Wi-Fi e Bluetooth, perfetto per creare applicazioni IoT wireless.
 
