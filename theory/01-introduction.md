@@ -121,7 +121,8 @@ Di seguito è riportata la lista dei comandi per scaricare tutto il necessario p
 # Utile per velocizzare l'installazione dei tool di sviluppo; non influisce sul processo di build del firmware.
 cargo install cargo-binstall
 
-# `espflash` è tool di flashing seriale, basato su `esptool.py`, per SoC e moduli Espressif. Questo è lo strumento utilizzato (quando non utilizziamo `probe-rs`) per inserire il nostro codice nel dispositivo ed eseguirlo.
+# `espflash` è tool di flashing seriale, basato su `esptool.py`, per SoC e moduli Espressif.
+# Questo è lo strumento utilizzato (quando non utilizziamo `probe-rs`) per inserire il nostro codice nel dispositivo ed eseguirlo.
 cargo binstall espflash
 # espflash --version
 
