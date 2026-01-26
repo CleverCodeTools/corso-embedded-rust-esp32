@@ -122,7 +122,7 @@ Di seguito è riportata la lista dei comandi per scaricare tutto il necessario p
 cargo install cargo-binstall
 
 # `espflash` è tool di flashing seriale, basato su `esptool.py`, per SoC e moduli Espressif.
-# Questo è lo strumento utilizzato (quando non utilizziamo `probe-rs`) per inserire il nostro codice nel dispositivo ed eseguirlo.
+# Questo è lo strumento utilizzato per inserire il nostro codice nella scheda ESP32 ed eseguirlo.
 cargo binstall espflash
 # espflash --version
 
